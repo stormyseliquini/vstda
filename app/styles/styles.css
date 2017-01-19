@@ -1,0 +1,17 @@
+body {
+    background-image: url("http://paperzip.co.uk/wp-content/uploads/2013/01/great-ways-use-post-its.jpg");
+}
+
+legend {
+    background-color: #fffd9e;
+}
+
+#priorityButton {
+    background-color: #d36b80;
+    margin-bottom: 10px;
+}
+
+#task {
+    text-align: center;
+    background-color: #fffd9e;
+}
